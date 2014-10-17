@@ -1,0 +1,18 @@
+<!DOCTYPE knimeNode PUBLIC "-//UNIKN//DTD KNIME Node 2.0//EN" "http://www.knime.org/Node.dtd">
+<knimeNode icon="icons/threshold.png" type="Manipulator">
+	<name>CellCognition Reader</name>
+	<shortDescription>
+		Simple Reader to read in cell cognition reference
+		data for training.
+	</shortDescription>
+
+	<fullDescription>
+		<intro>tbd</intro>
+	</fullDescription>
+
+	<ports>
+		<inPort index="0" name="Table">
+			Test
+		</inPort>
+	</ports>
+</knimeNode>
