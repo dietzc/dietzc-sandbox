@@ -1,0 +1,18 @@
+<!DOCTYPE knimeNode PUBLIC "-//UNIKN//DTD KNIME Node 2.0//EN" "http://www.knime.org/Node.dtd">
+<knimeNode icon="" type="Manipulator">
+	<name>ExampleTracker</name>
+	<shortDescription>
+		blubb
+	</shortDescription>
+
+	<fullDescription>
+		<intro>tbd</intro>
+	</fullDescription>
+
+	<ports>
+		<inPort index="0" name="Table">
+			Images
+		</inPort>
+		<outPort index="0" name=Table> Tracking Information</outPort>
+	</ports>
+</knimeNode>

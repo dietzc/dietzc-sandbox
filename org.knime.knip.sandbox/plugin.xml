@@ -8,5 +8,10 @@
             factory-class="org.knime.knip.sandbox.cellcogreader.CellCognitionReaderNodeFactory"
             id="org.knime.knip.sandbox.heldreader.CellCognitionReaderNodeFactory">
       </node>
+      <node
+            expert-flag="false"
+            factory-class="org.knime.knip.sandbox.exampletracker.ExampleTrackerNodeFactory"
+            id="org.knime.knip.sandbox.exampletracker.ExampleTrackerNodeFactory">
+      </node>
    </extension>
 </plugin>

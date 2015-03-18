@@ -3,11 +3,11 @@ package org.knime.knip.sandbox.cellcogreader;
 import java.io.File;
 import java.io.IOException;
 
+import net.imagej.ImgPlus;
 import net.imglib2.RandomAccess;
 import net.imglib2.labeling.Labeling;
 import net.imglib2.labeling.LabelingType;
 import net.imglib2.labeling.NativeImgLabeling;
-import net.imglib2.meta.ImgPlus;
 import net.imglib2.type.numeric.RealType;
 import net.imglib2.type.numeric.integer.ShortType;
 
